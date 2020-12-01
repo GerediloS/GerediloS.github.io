@@ -1,0 +1,74 @@
+body{
+    background-image: url("https://mcdn.wallpapersafari.com/medium/93/83/NLp5Kl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:inherit;
+}
+    
+.logo {
+    height: 40x;
+    width: 40px;
+}
+
+h2{
+    color:  white;
+}
+h6{
+    color: black;
+}
+.card-film {
+    min-height: 450px;
+}
+.text-muted {
+    color: black!important;
+}
+
+.card-film .card-body{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: white;
+    
+}
+.cor{
+    background:rgb(39, 118, 142);
+}
+
+.navbar-light .navbar-brand{
+color:rgb(6, 6, 7);
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 0.7cm;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color :rgb(248, 240, 240);
+}
+/* cor do botões */
+.btn-primary {
+    background-color:rgb(39, 118, 142);
+    border-color:  #FFF0F5;
+
+}
+
+.btn-primary:hover {
+    background-color:rgb(3, 100, 130);
+    border-color:  #FFF0F5;
+}
+
+.page-item.active .page-link { 
+    background-color:rgb(14, 13, 13);;
+    border-color: #FFF0F5;
+}
+
+.footer {
+    background-color:rgb(39, 118, 142);
+}
+.footer a{
+    color: rgb(7, 7, 7);
+    text-decoration: none;
+    font-size: 0.7cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
